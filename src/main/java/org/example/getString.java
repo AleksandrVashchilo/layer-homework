@@ -1,4 +1,4 @@
-package com.example.threelayerarch;
+package org.example;
 
 public class getString extends StingService {
 }

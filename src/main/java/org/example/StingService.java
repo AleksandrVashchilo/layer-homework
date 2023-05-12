@@ -1,4 +1,4 @@
-package com.example.threelayerarch;
+package org.example;
 
 import org.springframework.stereotype.Service;
 
